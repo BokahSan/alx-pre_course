@@ -1,1 +1,1 @@
-git diff --staged origin/master
+git pull
